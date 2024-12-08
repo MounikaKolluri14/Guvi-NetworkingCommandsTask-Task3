@@ -1,0 +1,15 @@
+1.
+
+nslookup guvi.in
+
+top
+free -h
+
+(connectivity b/w my system to guvi.in)
+ping guvi.in
+
+-------------------------------
+2.
+ping guvi.com
+
+telnet guvi.com 9000
